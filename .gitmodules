@@ -1,3 +1,6 @@
 [submodule "Pangea-Arbitration-Token-and-ICO-Material"]
 	path = Pangea-Arbitration-Token-and-ICO-Material
 	url = https://github.com/Bit-Nation/Pangea-Arbitration-Token-and-ICO-Material
+[submodule "BITNATION-Constitution"]
+	path = BITNATION-Constitution
+	url = https://github.com/Bit-Nation/BITNATION-Constitution
